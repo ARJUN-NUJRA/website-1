@@ -1,0 +1,344 @@
+@media (max-width:576px){
+	.col-xs-1{
+		flex:0 0 auto;
+		width:8.33%;
+	}
+	
+	.col-xs-2{
+		flex:0 0 auto;
+		width:16.66%;
+	}
+	
+	.col-xs-3{
+		flex:0 0 auto;
+		width:25%;
+	}
+	
+	.col-xs-4{
+		flex:0 0 auto;
+		width:33.33%;
+	}
+	
+	.col-xs-5{
+		flex:0 0 auto;
+		width:41.66%;
+	}
+	
+	.col-xs-6{
+		flex:0 0 auto;
+		width:50%;
+	}
+	
+	.col-xs-7{
+		flex:0 0 auto;
+		width:58.33%;
+	}
+	
+	.col-xs-8{
+		flex:0 0 auto;
+		width:66.66%;
+	}
+	
+	.col-xs-9{
+		flex:0 0 auto;
+		width:75%;
+	}
+	
+	.col-xs-10{
+		flex:0 0 auto;
+		width:83.33%;
+	}
+	
+	.col-xs-11{
+		flex:0 0 auto;
+		width:91.66%;
+	}
+	
+	.col-xs-12{
+		flex:0 0 auto;
+		width:100%;
+	} 
+	
+	.d-xs-none{
+	display:none;
+	}
+	.contact-info{
+		font-size:12px;
+		padding:10px 0;
+	}
+	.contact-info span> a{
+		font-size:12px;
+	}
+	.banner-content h1{
+		font-size:28px;
+	}
+	.banner-content p{
+		font-size:16px;
+	}
+	.abt-img-1{
+       height:400px;
+	   display:flex;
+	   justify-content:center;
+	   align-items:center;
+	}
+	.play-btn{
+		margin:0;
+	}
+	.whychoose-1{
+		margin-bottom:20px;
+	}
+	.box{
+		margin-bottom:20px;
+	}
+	.abt-content{
+	    padding: 40px 0 0px 0px;
+		
+	}
+    .client-logo img {
+		padding:10px 0;
+	}
+	
+	.smallbox a {
+		margin-top:10px;
+		font-size:12px;
+	}
+	
+    .faqbox{ 
+	    margin:10px 0;
+		padding:0px 20px;
+		align-items:center;
+	}
+	
+	.contact-full {
+    padding:0px;
+    }
+	.phone{
+		margin-bottom:20px;
+	}
+	.cbox-1 h1{
+		font-weight:800;
+		margin-top:20px;
+	}
+    .link-contant{
+	margin-top:20px;
+    }
+	.finishbox{
+		margin-bottom:20px;
+	}
+	.footer{
+		text-align:center;
+	}
+}
+@media (min-width:992px){
+	.menu-btn{
+		position:absolute;
+		top:0;
+		right:0;
+		width:40px;
+		height:40px;
+		padding:0;
+		background:transparent;
+		border:0;
+		box-shadow:none;
+		font-size:30px;	
+	}
+}
+@media (min-width:768px){
+	.container{
+		width:720px;
+	}
+		.col-md-1{
+		flex:0 0 auto;
+		width:8.33%;
+	}
+	
+	.col-md-2{
+		flex:0 0 auto;
+		width:16.66%;
+	}
+	
+	.col-md-3{
+		flex:0 0 auto;
+		width:25%;
+	}
+	
+	.col-md--4{
+		flex:0 0 auto;
+		width:33.33%;
+	}
+	
+	.col-md-5{
+		flex:0 0 auto;
+		width:41.66%;
+	}
+	
+	.col-md-6{
+		flex:0 0 auto;
+		width:50%;
+	}
+	
+	.col-md-7{
+		flex:0 0 auto;
+		width:58.33%;
+	}
+	
+	.col-md-8{
+		flex:0 0 auto;
+		width:66.66%;
+	}
+	
+	.col-md-9{
+		flex:0 0 auto;
+		width:75%;
+	}
+	
+	.col-md-10{
+		flex:0 0 auto;
+		width:83.33%;
+	}
+	
+	.col-md-11{
+		flex:0 0 auto;
+		width:91.66%;
+	}
+	
+	.col-md-12{
+		flex:0 0 auto;
+		width:100%;
+	} 
+	.d-my-none{
+	   display:none !important;
+	}
+	
+	.info-button a{
+		padding:10px 0px;
+	}
+	.contact-info{
+		font-size:14px;
+	}
+	.contact-info span a {
+		font-size:14px;
+	}
+	.banner-content h1{
+		font-size:30px;
+	}
+	.banner-content p{
+		font-size:18px;
+	}
+	.whychoose-1{
+		margin-bottom:20px;
+	}
+	.box{
+		margin-bottom:20px;
+	}
+	
+	.play-btn{
+		margin:0;
+	}
+	.faqbox{
+        margin: 10px 30px;
+	}
+	.contact-full {
+    padding: 0;
+}
+	.phone{
+		margin-bottom:20px;
+	}
+	.cbox{
+		margin:30px 0;
+	}
+	.cbox-1 h1{
+		font-weight:800;
+		margin-top:30px;
+	}
+    .link-contant{
+	margin-top:20px;
+    }
+	.finishbox{
+		margin-bottom:20px;
+	}
+	.footer{
+		text-align:center;
+	}
+}
+@media (max-width:992px){
+.abt-img-1{
+       height:400px;
+	   display:flex;
+	   justify-content:center;
+	   align-items:center;
+	}
+	.d-md-none{
+		display:none;
+	}
+	}
+@media (min-width:992px){
+	.container{
+		width:1170px;
+	}
+	.col-lg-1{
+		flex:0 0 auto;
+		width:8.33%;
+	}
+	
+	.col-lg-2{
+		flex:0 0 auto;
+		width:16.66%;
+	}
+	
+	.col-lg-3{
+		flex:0 0 auto;
+		width:25%;
+	}
+	
+	.col-lg-4{
+		flex:0 0 auto;
+		width:33.33%;
+	}
+	
+	.col-lg-5{
+		flex:0 0 auto;
+		width:41.66%;
+	}
+	
+	.col-lg-6{
+		flex:0 0 auto;
+		width:50%;
+	}
+	
+	.col-lg-7{
+		flex:0 0 auto;
+		width:58.33%;
+	}
+	
+	.col-lg-8{
+		flex:0 0 auto;
+		width:66.66%;
+	}
+	
+	.col-lg-9{
+		flex:0 0 auto;
+		width:75%;
+	}
+	
+	.col-lg-10{
+		flex:0 0 auto;
+		width:83.33%;
+	}
+	
+	.col-lg-11{
+		flex:0 0 auto;
+		width:91.66%;
+	}
+	
+	.col-lg-12{
+		flex:0 0 auto;
+		width:100%;
+	} 
+	.display-block{
+		display:block !important;
+	}
+	.d-lg-none{
+		display:none;
+	}
+}

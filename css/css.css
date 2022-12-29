@@ -1,0 +1,21 @@
+
+.container{
+	width:1000px;
+	margin:0 auto;
+	padding:0 15px;
+}
+	
+	/*=========header style=======*/
+	.header-top{
+		background-color:#ff5821;
+	}
+	.header-info{
+		background-color:#39312f;
+	}
+	 .contact-info{
+		height:50px;
+		background-color:#222;
+	}
+	.info-button{
+		background-color:#222;
+	}
